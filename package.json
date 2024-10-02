@@ -1,0 +1,17 @@
+{
+  "name": "knip-795",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "knip": "knip --files",
+    "knip:no-gitignore": "knip --files --no-gitignore"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "knip": "^5.30.6"
+  }
+}
