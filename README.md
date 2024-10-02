@@ -5,7 +5,7 @@ Re: webpro-nl/knip#795
 ## Setup
 
 ```shell
-gh clone mcous/knip-795
+gh repo clone mcous/knip-795
 cd knip-795
 pnpm install
 ```
